@@ -46,6 +46,13 @@
             <scope>system</scope>
             <systemPath>${basedir}/lib/CTreeAce11.5.jar</systemPath>
         </dependency>
+        <dependency>
+            <groupId>com.faircom.cTreeDb</groupId>
+            <artifactId>cTreeDb14-dialect</artifactId>
+            <version>11.5</version>
+            <scope>system</scope>
+            <systemPath>${basedir}/lib/ctreeACEDialect.jar</systemPath>
+        </dependency>
     </dependencies>
 
     <build>
